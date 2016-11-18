@@ -32,9 +32,8 @@
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
-            android:layout_height="103dp"
-            android:weightSum="1"
-            android:layout_weight="1.03">
+            android:layout_height="90dp"
+            android:weightSum="1">
 
             <LinearLayout
                 android:orientation="vertical"
@@ -73,7 +72,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:id="@+id/btnDown"
-            android:onClick="stopKeepGoing" />
+            android:onClick="stopMoveLots" />
 
     </LinearLayout>
 </RelativeLayout>
