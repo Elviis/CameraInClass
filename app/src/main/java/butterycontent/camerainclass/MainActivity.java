@@ -203,7 +203,7 @@ public class MainActivity extends AppCompatActivity {
     public void moveLots(View view) {
 
 
-       moveAlot();
+      moveAlot();
 
     }
 
@@ -321,6 +321,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
 }
 
 //    if (avatarButton.getScrollY() < -210){

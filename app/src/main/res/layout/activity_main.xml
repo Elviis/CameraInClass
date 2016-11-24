@@ -22,12 +22,12 @@
 
         <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="181dp"
+            android:layout_height="282dp"
             app:srcCompat="@drawable/avatar"
             android:adjustViewBounds="true"
             android:id="@+id/imgBtnAvatar"
             android:layout_gravity="center"
-            android:layout_weight="0.96" />
+            android:scaleType="matrix" />
 
         <LinearLayout
             android:orientation="horizontal"
