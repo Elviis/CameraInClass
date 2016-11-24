@@ -26,8 +26,7 @@
             app:srcCompat="@drawable/avatar"
             android:adjustViewBounds="true"
             android:id="@+id/imgBtnAvatar"
-            android:layout_gravity="center"
-            android:scaleType="matrix" />
+            android:layout_gravity="center" />
 
         <LinearLayout
             android:orientation="horizontal"
